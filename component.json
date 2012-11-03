@@ -1,0 +1,15 @@
+{
+  "name": "collection",
+  "repo": "component/collection",
+  "description": "Enumerable data model collections",
+  "version": "0.0.1",
+  "keywords": ["enumerable", "data", "model", "db"],
+  "dependencies": {
+    "component/enumerable": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
