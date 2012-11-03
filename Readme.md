@@ -1,7 +1,8 @@
 
 # collection
 
-  Enumerable data model collections
+  Enumerable data model collections, with all [Enumerable](https://github.com/component/enumerable)
+  methods available.
 
 ## Installation
 
