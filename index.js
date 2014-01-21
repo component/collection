@@ -1,9 +1,9 @@
 
-/**
- * Module dependencies.
- */
-
-var Enumerable = require('enumerable');
+try {
+  var Enumerable = require('enumerable');
+} catch (e) {
+  var Enumerable = require('enumerable-component');
+}
 
 /**
  * Expose `Collection`.

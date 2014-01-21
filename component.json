@@ -2,7 +2,7 @@
   "name": "collection",
   "repo": "component/collection",
   "description": "Enumerable data model collections",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["enumerable", "data", "model", "db"],
   "dependencies": {
     "component/enumerable": "*"
