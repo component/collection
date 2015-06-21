@@ -13,9 +13,7 @@
     "enumerable-component": "~0.3.1"
   },
   "browser": {
-    "map": {
-      "enumerable": "enumerable-component"
-    }
+    "enumerable": "enumerable-component"
   },
   "license": "MIT"
 }
