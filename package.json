@@ -10,7 +10,7 @@
     "db"
   ],
   "dependencies": {
-    "enumerable-component": "~0.3.1"
+    "enumerable-component": "git://github.com/component/enumerable#0.3.2"
   },
   "browser": {
     "enumerable": "enumerable-component"
