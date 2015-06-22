@@ -2,7 +2,7 @@
   "name": "component-collection",
   "repository": "git://github.com/component/collection.git",
   "description": "Enumerable data model collections",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "enumerable",
     "data",
